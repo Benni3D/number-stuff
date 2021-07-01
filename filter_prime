@@ -12,4 +12,4 @@ define is_prime(x) {
 }
 "
 
-./filter.sh "$is_prime" "is_prime(x)"
+./filter "$is_prime" "is_prime(x)"
